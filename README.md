@@ -1,6 +1,8 @@
 # MonthlyPlanner
 My Monthly printable planner
 
+<img src="IMG_0826" width="200" />
+
 
 ## Inspiration:
 
