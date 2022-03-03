@@ -1,7 +1,9 @@
 # MonthlyPlanner
 My Monthly printable planner
 
-<img src="IMG_0826" width="200" />
+<img src="IMG_0829.jpg" width="200" />
+<img src="IMG_0830.jpg" width="200" />
+<img src="IMG_0831.jpg" width="200" />
 
 
 ## Inspiration:
