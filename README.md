@@ -9,11 +9,13 @@ My Monthly printable planner
 ## Inspiration:
 
 - https://www.reddit.com/r/bujo/comments/r6gnrl/monthly_log_mood_and_habit_tracker/
-- 
+- Marcy Caldwell's ADDept Planner: https://www.addept.org/planning
+- And others! 
 
 
 ## Instructions
 
+- [Download (its for A4)](https://github.com/willwade/MonthlyPlanner/raw/main/Complete%20Planner%20-%20A4.pdf). 
 - Print double sided
 - Pop a bit of card on outside
 - Staple
